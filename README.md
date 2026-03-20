@@ -1,5 +1,9 @@
 # ThatOpen Claude Skill Package
 
+<p align="center">
+  <img src="docs/social-preview.png" alt="18 Deterministic Skills for ThatOpen BIM Development" width="100%">
+</p>
+
 > Production-ready Claude Code skills for building web-based BIM applications with [ThatOpen Engine](https://github.com/ThatOpen/engine_components) 3.3.x
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
