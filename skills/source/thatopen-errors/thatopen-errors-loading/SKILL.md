@@ -31,6 +31,19 @@ Use this skill when:
 
 ---
 
+## Critical Warnings
+
+1. **ALWAYS** call `await ifcLoader.setup()` before `ifcLoader.load()` — skipping setup causes silent null reference failures.
+2. **ALWAYS** call `fragmentsManager.init(workerURL)` before any fragment operation — the worker is required for all data operations.
+3. **ALWAYS** match the WASM file version to the installed `web-ifc` npm package version — mismatches cause `RuntimeError: unreachable`.
+4. **NEVER** pass a `string` or `File` object to `ifcLoader.load()` — it requires `Uint8Array`.
+5. **ALWAYS** include a trailing slash in WASM paths — `"/wasm/"` not `"/wasm"`.
+6. **ALWAYS** serve `.wasm` files with MIME type `application/wasm` — incorrect MIME types cause `CompileError`.
+7. **ALWAYS** configure COOP/COEP headers for multi-threaded WASM — `SharedArrayBuffer` requires cross-origin isolation.
+8. **NEVER** assume all IFC entity types load by default — check `excludedCategories` if elements are missing.
+
+---
+
 ## Error Message to Fix Mapping
 
 | Error Message / Symptom | Root Cause | Fix | Section |

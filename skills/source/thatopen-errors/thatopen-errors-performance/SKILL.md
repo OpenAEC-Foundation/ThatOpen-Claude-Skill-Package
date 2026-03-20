@@ -163,7 +163,7 @@ Use this checklist when implementing cleanup logic:
 |---|---|---|---|
 | Small | < 10,000 | < 200 MB | Full load, no special handling |
 | Medium | 10,000 - 100,000 | 200 - 800 MB | Full load, filter IFC classes |
-| Large | 100,000 - 500,000 | 800 MB - 2 GB | Filter aggressively, consider streaming |
+| Large | 100,000 - 500,000 | 800 MB - 2 GB | Filter aggressively, ALWAYS use streaming |
 | Very Large | > 500,000 | > 2 GB | Fragment streaming mandatory, federate |
 
 **Browser memory limits:**
