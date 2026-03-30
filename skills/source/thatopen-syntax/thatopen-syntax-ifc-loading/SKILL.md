@@ -6,8 +6,7 @@ description: >
   Prevents WASM configuration failures and version mismatches.
   Covers IfcLoader setup, WASM path config, load() method,
   IfcFragmentSettings, IfcImporter (fragments-level), default IFC imports.
-  Keywords: ifc, loading, ifcloader, wasm, setup, load, ifcimporter,
-  fragments, web-ifc, model, uint8array.
+  Keywords: ifc, loading, ifcloader, wasm, setup, load, ifcimporter, fragments, web-ifc, model, uint8array, load IFC file, open model, import IFC, fetch and load.
 license: MIT
 compatibility: "Designed for Claude Code. Requires @thatopen/components 3.3.x / web-ifc 0.0.77+."
 metadata:

@@ -6,8 +6,7 @@ description: >
   Prevents memory leaks from undisposed resources and main thread blocking.
   Covers disposal patterns, memory management, worker usage, BVH raycasting,
   polygon offset z-fighting, fragment optimization, large model strategies.
-  Keywords: performance, memory, leak, dispose, slow, crash, large model,
-  worker, optimization, z-fighting, disposal, gpu, browser.
+  Keywords: performance, memory, leak, dispose, slow, crash, large model, worker, optimization, z-fighting, disposal, gpu, browser, laggy, low FPS, browser freezes, out of memory.
 license: MIT
 compatibility: "Designed for Claude Code. Requires @thatopen/components 3.3.x."
 metadata:

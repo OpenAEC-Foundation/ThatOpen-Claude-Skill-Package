@@ -7,8 +7,7 @@ description: >
   Covers end-to-end viewer creation: Vite project setup, npm dependencies,
   HTML container, TypeScript viewer code, IFC loading, highlighting,
   toolbar and panel UI, complete working application.
-  Keywords: scaffold, project, setup, viewer, create, new, app, vite,
-  template, starter, boilerplate, complete.
+  Keywords: scaffold, project, setup, viewer, create, new, app, vite, template, starter, boilerplate, complete, how to start, new IFC viewer project, quick setup, getting started.
 license: MIT
 compatibility: "Designed for Claude Code. Requires @thatopen/components 3.3.x."
 metadata:

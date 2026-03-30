@@ -6,8 +6,7 @@ description: >
   Prevents BCF version mismatches and missing topic configuration.
   Covers BCFTopics (create, load, export), BCF v2.1 and v3.0 support,
   Viewpoints, topic configuration, IDSSpecifications overview.
-  Keywords: bcf, topic, viewpoint, issue, collaboration, ids, export,
-  import, bim collaboration format, snapshot.
+  Keywords: bcf, topic, viewpoint, issue, collaboration, ids, export, import, bim collaboration format, snapshot, share issues, track problems, report clash.
 license: MIT
 compatibility: "Designed for Claude Code. Requires @thatopen/components 3.3.x."
 metadata:

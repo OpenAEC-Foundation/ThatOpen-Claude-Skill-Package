@@ -7,8 +7,7 @@ description: >
   Covers Highlighter (click selection with styles), Hoverer (hover animation),
   Outliner (post-processing outlines), Mesher (fragment-to-mesh), FastModelPicker
   (GPU picking), multi-select, zoom-to-selection, autoToggle.
-  Keywords: highlighter, selection, hover, outline, pick, highlight,
-  multi-select, color, style, mesher, fast model picker.
+  Keywords: highlighter, selection, hover, outline, pick, highlight, multi-select, color, style, mesher, fast model picker, click to select, hover effect, selected element color.
 license: MIT
 compatibility: "Designed for Claude Code. Requires @thatopen/components-front 3.3.x."
 metadata:

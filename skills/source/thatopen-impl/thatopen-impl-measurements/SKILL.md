@@ -7,8 +7,7 @@ description: >
   Covers LengthMeasurement, AreaMeasurement, VolumeMeasurement,
   AngleMeasurement, Measurement base class, snapping, units, modes,
   valueFormatter, measurement lifecycle (create/end/cancel/delete).
-  Keywords: measurement, length, area, volume, angle, distance, snap,
-  dimension, measure, units, picker.
+  Keywords: measurement, length, area, volume, angle, distance, snap, dimension, measure, units, picker, measure distance, how far apart, calculate area in viewer.
 license: MIT
 compatibility: "Designed for Claude Code. Requires @thatopen/components-front 3.3.x."
 metadata:

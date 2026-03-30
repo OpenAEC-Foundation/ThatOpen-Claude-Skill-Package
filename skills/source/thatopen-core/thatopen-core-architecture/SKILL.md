@@ -6,8 +6,7 @@ description: >
   Prevents direct component instantiation instead of using components.get().
   Covers Components container, Component base class, lifecycle interfaces,
   World system, package split (core vs front), Event system, DataMap/DataSet.
-  Keywords: thatopen, components, world, scene, renderer, camera, lifecycle,
-  disposable, updateable, configurable, bim, architecture.
+  Keywords: thatopen, components, world, scene, renderer, camera, lifecycle, disposable, updateable, configurable, bim, architecture, how ThatOpen works, component system, project structure.
 license: MIT
 compatibility: "Designed for Claude Code. Requires @thatopen/components 3.3.x."
 metadata:

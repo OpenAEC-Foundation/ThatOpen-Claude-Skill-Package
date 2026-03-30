@@ -7,8 +7,7 @@ description: >
   Covers multi-model loading, coordination matrix, Hider (set/isolate/toggle),
   BoundingBoxer (fit, camera orientation), per-model visibility, cross-model
   queries via ModelIdMap.
-  Keywords: federation, multi-model, coordination, hider, visibility,
-  isolate, bounding box, alignment, model, hide, show.
+  Keywords: federation, multi-model, coordination, hider, visibility, isolate, bounding box, alignment, model, hide, show, load multiple models, combine IFC files, show hide elements.
 license: MIT
 compatibility: "Designed for Claude Code. Requires @thatopen/components 3.3.x."
 metadata:

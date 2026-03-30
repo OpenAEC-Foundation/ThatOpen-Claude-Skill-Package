@@ -6,8 +6,7 @@ description: >
   Prevents direct instantiation of components instead of using get().
   Covers components.get() singleton pattern, component registration, lifecycle
   interface implementation, Event system, DataMap, DataSet reactive collections.
-  Keywords: components, get, singleton, uuid, lifecycle, event, datamap,
-  dataset, disposable, updateable, configurable, component api.
+  Keywords: components, get, singleton, uuid, lifecycle, event, datamap, dataset, disposable, updateable, configurable, component api, how to use components, register component.
 license: MIT
 compatibility: "Designed for Claude Code. Requires @thatopen/components 3.3.x."
 metadata:

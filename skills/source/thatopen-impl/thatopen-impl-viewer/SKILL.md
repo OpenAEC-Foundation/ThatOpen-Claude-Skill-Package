@@ -7,8 +7,7 @@ description: >
   Covers complete viewer setup: Worlds.create(), SimpleScene, SimpleRenderer,
   PostproductionRenderer, OrthoPerspectiveCamera, Grids, components.init(),
   container binding, dispose lifecycle.
-  Keywords: viewer, world, scene, renderer, camera, grid, setup, init,
-  dispose, postproduction, viewport, container, webgl.
+  Keywords: viewer, world, scene, renderer, camera, grid, setup, init, dispose, postproduction, viewport, container, webgl, create viewer, embed viewer, viewer not rendering, blank canvas.
 license: MIT
 compatibility: "Designed for Claude Code. Requires @thatopen/components 3.3.x."
 metadata:

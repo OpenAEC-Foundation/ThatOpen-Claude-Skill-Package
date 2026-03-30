@@ -6,8 +6,7 @@ description: >
   Prevents worker initialization failures and memory leaks from undisposed models.
   Covers FragmentsManager, FragmentsModel, ModelIdMap, worker initialization,
   coordinate alignment, raycast, getData, GUID mapping.
-  Keywords: fragments, fragmentsmanager, modelidmap, worker, instanced mesh,
-  flatbuffers, bim model, load, dispose, raycast.
+  Keywords: fragments, fragmentsmanager, modelidmap, worker, instanced mesh, flatbuffers, bim model, load, dispose, raycast, how models are stored, fragment format, model data structure.
 license: MIT
 compatibility: "Designed for Claude Code. Requires @thatopen/fragments 3.3.x."
 metadata:

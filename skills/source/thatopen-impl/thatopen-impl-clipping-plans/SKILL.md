@@ -7,8 +7,7 @@ description: >
   Covers Clipper (create, delete, drag), ClipStyler (styles, createFromView,
   createFromClipping), View system, Plan camera mode, edge visualization,
   programmatic plane creation.
-  Keywords: clipper, clipping, plane, section, floor plan, clip edges,
-  clip styler, view, cut, cross section.
+  Keywords: clipper, clipping, plane, section, floor plan, clip edges, clip styler, view, cut, cross section, slice model, cut through building, show floor plan.
 license: MIT
 compatibility: "Designed for Claude Code. Requires @thatopen/components 3.3.x."
 metadata:

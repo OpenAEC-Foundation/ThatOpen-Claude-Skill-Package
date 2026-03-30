@@ -7,8 +7,7 @@ description: >
   Covers OrthoPerspectiveCamera modes (Orbit, FirstPerson, Plan), projection
   switching, fit() framing, custom navigation modes, camera controls,
   frustum settings, user input toggling.
-  Keywords: navigation, camera, orbit, first person, plan, projection,
-  perspective, orthographic, fit, controls, zoom, pan, rotate.
+  Keywords: navigation, camera, orbit, first person, plan, projection, perspective, orthographic, fit, controls, zoom, pan, rotate, fly to, look at, camera position, walk through model.
 license: MIT
 compatibility: "Designed for Claude Code. Requires @thatopen/components 3.3.x."
 metadata:

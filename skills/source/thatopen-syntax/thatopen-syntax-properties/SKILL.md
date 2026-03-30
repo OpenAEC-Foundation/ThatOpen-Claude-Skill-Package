@@ -6,8 +6,7 @@ description: >
   Prevents inefficient property queries and missing classifications.
   Covers Classifier (byCategory, byIfcBuildingStorey, byModel), find()
   queries, FragmentsManager.getData(), ItemsFinder, IFC relationships.
-  Keywords: classifier, properties, ifc, category, storey, find, getdata,
-  spatial structure, property set, quantity set, classification.
+  Keywords: classifier, properties, ifc, category, storey, find, getdata, spatial structure, property set, quantity set, classification, get properties, read pset, filter by type.
 license: MIT
 compatibility: "Designed for Claude Code. Requires @thatopen/components 3.3.x."
 metadata:

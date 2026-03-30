@@ -7,8 +7,7 @@ description: >
   Covers IFC model analysis: spatial structure extraction, property set
   enumeration, element counting by type, classification reports, model
   validation, data export, quality checks.
-  Keywords: analyze, analysis, report, model, ifc, properties, count,
-  spatial, structure, validate, quality, inventory.
+  Keywords: analyze, analysis, report, model, ifc, properties, count, spatial, structure, validate, quality, inventory, how many walls, list all elements, model summary, element statistics.
 license: MIT
 compatibility: "Designed for Claude Code. Requires @thatopen/components 3.3.x."
 metadata:

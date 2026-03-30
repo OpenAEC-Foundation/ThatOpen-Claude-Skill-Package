@@ -7,8 +7,7 @@ description: >
   Prevents WASM initialization failures and memory leaks from unclosed models.
   Covers IfcAPI, SetWasmPath, Init, OpenModel, GetLine, GetFlatMesh,
   StreamAllMeshes, properties helper, LoaderSettings, schema detection.
-  Keywords: web-ifc, wasm, ifc, parser, ifcapi, geometry, properties,
-  spatial structure, express id, flatmesh.
+  Keywords: web-ifc, wasm, ifc, parser, ifcapi, geometry, properties, spatial structure, express id, flatmesh, parse IFC in browser, read IFC JavaScript, IFC web.
 license: MIT
 compatibility: "Designed for Claude Code. Requires web-ifc 0.0.77+."
 metadata:

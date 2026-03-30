@@ -7,8 +7,7 @@ description: >
   Covers WASM init failures, IFC parse errors, WASM path misconfiguration,
   web-ifc version mismatches, worker initialization failures, missing IFC
   classes, silent failures, COORDINATE_TO_ORIGIN issues.
-  Keywords: error, loading, wasm, ifc, parse, failed, worker, init,
-  setup, path, version, mismatch, crash, fix.
+  Keywords: error, loading, wasm, ifc, parse, failed, worker, init, setup, path, version, mismatch, crash, fix, model won't load, IFC loading failed, wasm not found, blank screen.
 license: MIT
 compatibility: "Designed for Claude Code. Requires @thatopen/components 3.3.x / web-ifc 0.0.77+."
 metadata:

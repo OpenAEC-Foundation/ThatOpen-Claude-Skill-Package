@@ -7,8 +7,7 @@ description: >
   Covers @thatopen/ui web components (bim-panel, bim-toolbar, bim-table,
   bim-grid, bim-button, inputs), CSS theming, @thatopen/ui-obc functional
   components, Lit web component patterns.
-  Keywords: ui, panel, toolbar, table, grid, button, bim-panel, lit,
-  web components, theming, css custom properties, ui-obc.
+  Keywords: ui, panel, toolbar, table, grid, button, bim-panel, lit, web components, theming, css custom properties, ui-obc, create sidebar, add toolbar, custom BIM interface.
 license: MIT
 compatibility: "Designed for Claude Code. Requires @thatopen/ui 3.3.x."
 metadata:
